@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Uploading 241851066-8c37ce6d-7e8c-47b9-b114-9cceaafc7425.png…]()
+![241851066-8c37ce6d-7e8c-47b9-b114-9cceaafc7425](https://github.com/lokeshrahulv/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118423842/57bb7a82-f960-4799-bff4-8c9c9b3795f1)
 
 ### Name: Lokesh Rahul V V  
 ### Register Number: 212222100024
